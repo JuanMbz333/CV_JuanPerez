@@ -7,23 +7,24 @@
 ## 📞 Contacto
 - **Teléfono:** +57 3116704311
 - **Email:** juandelsantafesote@gmail.com
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **LinkedIn:** Juandelsantafesote@linkedin.com
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
-
+### **SENA** _(Actualidad)_
+- ANALISTA EN DESARROLLO DE SOFTWARE 
+### **DL QBCo** _(2024 - 2025)_
+- AUXILIAR DE PRODUCCIÓN 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **COLEGIO TÉCNICO INDUSTRIAL DE TOCANCIPÁ** _(2023 - 2024)_
+BACHILLER
+
+### **COLEGIO TÉCNICO INDUSTRIAL DE TOCANCIPÁ** _(2023 - 2024)_
+TÉCNICO EN PROCESOS DE SOLDADURA
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Trabajo en equipo**
+- **empatía**
+- **adaptabilidad**
 
 ---
 
