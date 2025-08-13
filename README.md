@@ -5,7 +5,6 @@
 **Profesión:** _Analista y desarrollador de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 3116704311
 - **Email:** juandelsantafesote@gmail.com
 - **LinkedIn:** Juandelsantafesote@linkedin.com
 
